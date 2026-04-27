@@ -1,5 +1,17 @@
 # Changelog
 
+## [1.0.1](https://github.com/thomaspoignant/go-feature-flag/compare/openfeature/providers/python-provider/v1.0.0...openfeature/providers/python-provider/v1.0.1) (2026-04-27)
+
+
+### 🔧 Chores
+
+* Bump go.opentelemetry.io/otel/trace from 1.42.0 to 1.43.0 ([#5079](https://github.com/thomaspoignant/go-feature-flag/issues/5079)) ([9505e0b](https://github.com/thomaspoignant/go-feature-flag/commit/9505e0bf1139244123f3d683cfefb698305601e7))
+
+
+### 📚 Documentation
+
+* update provider documentation for in-process evaluation and capabilities ([#5060](https://github.com/thomaspoignant/go-feature-flag/issues/5060)) ([e6864ce](https://github.com/thomaspoignant/go-feature-flag/commit/e6864ce3c152c66842ebb63cb40262d343a3af60))
+
 ## [1.0.0](https://github.com/thomaspoignant/go-feature-flag/compare/openfeature/providers/python-provider/v0.5.0...openfeature/providers/python-provider/v1.0.0) (2026-03-31)
 
 
