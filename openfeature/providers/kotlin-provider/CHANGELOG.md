@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.0.1](https://github.com/thomaspoignant/go-feature-flag/compare/openfeature/providers/kotlin-provider/v1.0.0...openfeature/providers/kotlin-provider/v1.0.1) (2026-04-27)
+
+
+### 🔧 Chores
+
+* Bump go.opentelemetry.io/otel/sdk from 1.41.0 to 1.42.0 ([#4944](https://github.com/thomaspoignant/go-feature-flag/issues/4944)) ([ede0c19](https://github.com/thomaspoignant/go-feature-flag/commit/ede0c19d7452e55e9b8e27d1c929da9c0492a82a))
+* Bump go.opentelemetry.io/otel/trace from 1.42.0 to 1.43.0 ([#5079](https://github.com/thomaspoignant/go-feature-flag/issues/5079)) ([9505e0b](https://github.com/thomaspoignant/go-feature-flag/commit/9505e0bf1139244123f3d683cfefb698305601e7))
+
 ## [1.0.0](https://github.com/thomaspoignant/go-feature-flag/compare/openfeature/providers/kotlin-provider/v1.0.0...openfeature/providers/kotlin-provider/v1.0.0) (2026-02-05)
 
 
