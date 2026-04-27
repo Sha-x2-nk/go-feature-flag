@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.6.2](https://github.com/thomaspoignant/go-feature-flag/compare/modules/core/v0.6.1...modules/core/v0.6.2) (2026-04-27)
+
+
+### 🔧 Chores
+
+* Bump go.opentelemetry.io/otel/trace from 1.42.0 to 1.43.0 ([#5079](https://github.com/thomaspoignant/go-feature-flag/issues/5079)) ([9505e0b](https://github.com/thomaspoignant/go-feature-flag/commit/9505e0bf1139244123f3d683cfefb698305601e7))
+
 ## [0.6.1](https://github.com/thomaspoignant/go-feature-flag/compare/modules/core/v0.6.0...modules/core/v0.6.1) (2026-03-13)
 
 
